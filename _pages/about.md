@@ -13,8 +13,8 @@ profile:
     <div>D125 Room, Building 26, Tianjin, China</div>
     <div>+86-15222047598</div>
 
-News: true  # includes a list of news items
-Selected_papers: true # includes a list of papers marked as "selected={true}"
+news: true  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
 Social: true  # includes social icons at the bottom of the page
 ---
 
