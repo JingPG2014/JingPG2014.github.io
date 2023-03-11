@@ -12,7 +12,7 @@ profile:
     <div>School of Electrical and Information Engineering, Tianjin University</div>
     <div>D125 Room, Building 26, Tianjin, China</div>
     <div>+86-15222047598</div>
-    <div>pgjing@tju.edu.cn
+    <div>pgjing@tju.edu.cn</div>
 
 News: true  # includes a list of news items
 Selected_papers: true # includes a list of papers marked as "selected={true}"
