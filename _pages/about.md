@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
     <div>School of Electrical and Information Engineering, Tianjin University</div>
-    <div>330 Room, Building 26, Tianjin, China</div>
+    <div>D125 Room, Building 26, Tianjin, China</div>
     <div>+86-15222047598</div>
 
 news: true  # includes a list of news items
@@ -18,10 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Dr. Jing Peiguang, received his Ph.D. in Information and Communication Engineering, from Tianjin University. He is currently an associate professor at the School of Electronic and Information Engineering at Tianjin University. 
-He and his group at Tianjin University have published more than 50 refereed journal and conference papers. Dr. LIU has been awarded 10 authorized Chinese patents, with another 5 Chinese patents pending.
+Dr. Jing received his Ph.D. in Information and Communication Engineering from Tianjin University. He is currently an associate professor at the School of Electrical and Information Engineering at Tianjin University. 
 
-**Research interest:** Multimedia Analysis and Tensor Decomposition. *Interested in internship or collaboration? Contact me.*
+
+**Research interest:** Multimedia Analysis and Tensor Decomposition. *Interested in internship or collaboration? Contact me!*
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
