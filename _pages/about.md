@@ -12,16 +12,17 @@ profile:
     <div>School of Electrical and Information Engineering, Tianjin University</div>
     <div>D125 Room, Building 26, Tianjin, China</div>
     <div>+86-15222047598</div>
+    <div>pgjing@tju.edu.cn
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+News: true  # includes a list of news items
+Selected_papers: true # includes a list of papers marked as "selected={true}"
+Social: true  # includes social icons at the bottom of the page
 ---
 
 Dr. Jing received his Ph.D. in Information and Communication Engineering from Tianjin University. He is currently an associate professor at the School of Electrical and Information Engineering at Tianjin University. 
 
 
-**Research interest:** Multimedia Analysis and Tensor Decomposition. *Interested in internship or collaboration? Contact me!*
+**Research interest:** Multimedia Analysis and Tensor Decomposition. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
