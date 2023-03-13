@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 Social: true  # includes social icons at the bottom of the page
 ---
 
-Dr. Jing received his Ph.D. in Information and Communication Engineering from Tianjin University. He is currently an associate professor at the School of Electrical and Information Engineering at Tianjin University. Dr. Jing was selected into the Elite Scholar Program of Tianjin University in 2020 and served as guest editor of journals Information Processing&Mangement and Multimedia Tools and Applications.  Dr. Jing has co-/authored more than 60  papers including IEEE TIP/TKDE/TMM/TCSVT/TCYB, ACM MM, etc.
+Dr. Jing  is currently an associate professor at the School of Electrical and Information Engineering at Tianjin University. He received his Ph.D. degree in Information and Communication Engineering from Tianjin University. Dr. Jing was selected into the Elite Scholar Program of Tianjin University in 2020 and served as guest editor of journals Information Processing&Mangement and Multimedia Tools and Applications.  Dr. Jing has co-/authored more than 60  papers including IEEE TIP/TKDE/TMM/TCSVT/TCYB, ACM MM, etc.
 
 
 
