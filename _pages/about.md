@@ -10,8 +10,9 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
     <div>School of Electrical and Information Engineering, Tianjin University</div>
-    <div>D125 Room, Building 26, Tianjin, China</div>
+    <div>D125 Room, Building 26, 300072, Tianjin, China</div>
     <div>+86-15222047598</div>
+    <div>pgjing@tju.edu.cn</div>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
