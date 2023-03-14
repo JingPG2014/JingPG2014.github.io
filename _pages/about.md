@@ -13,7 +13,7 @@ profile:
     <div>Postcode: 300072</div>
     <div>Email: pgjing@tju.edu.cn</div>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 Social: true  # includes social icons at the bottom of the page
 ---
