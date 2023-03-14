@@ -9,9 +9,9 @@ profile:
   image: jing.png
   image_circular: true # crops the image to make it circular
   address: >
-    <div>**Address:** Room D125, Building 26, No.92 Weijin Road, Tianjin University, Tianjin, China</div>
-    <div>**Postcode:** 300072</div>
-    <div>**Email:**pgjing@tju.edu.cn</div>
+    <div>Address: Room D125, Building 26, No.92 Weijin Road, Tianjin University, Tianjin, China</div>
+    <div>Postcode: 300072</div>
+    <div>Email: pgjing@tju.edu.cn</div>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
