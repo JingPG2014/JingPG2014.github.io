@@ -15,7 +15,7 @@
   type: time_table
   contents:
     - title: Associate Professor
-      institution: School of Electrical and Information Engineering, Tianjin University
+      institution: School of Electrical and Information Engineering, Tianjin University, Tianjin, China
       year: 2020-Today
       # description:
       #   - Description 1.
@@ -25,16 +25,16 @@
       #       - Sub-description 1.
       #       - Sub-description 2.
     - title: Assistant Professor
-      institution: School of Electrical and Information Engineering, Tianjin University
+      institution: School of Electrical and Information Engineering, Tianjin University, Tianjin, China
       year: 2018-2020
       # description:
       #   - Description 1.
       #   - Description 2.
     - title: Visiting Ph.D. Student
-      institution: School of Computing, National University of Singapore
+      institution: School of Computing, National University of Singapore, Singapore
       year: 2014-2015
     - title: Ph.D. Student
-      institution: School of Electrical and Information Engineering, Tianjin University
+      institution: School of Electrical and Information Engineering, Tianjin University, Tianjin, China
       year: 2013-2018
 
 # - title: Research Interests
