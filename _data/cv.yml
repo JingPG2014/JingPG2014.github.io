@@ -3,10 +3,13 @@
   contents:
     - name: Full Name
       value: Peiguang Jing
-    - name: Date of Birth
-      value: 14th March 19xx
-    - name: Languages
-      value: English, Chinese
+    - name: Institution 
+      value: Tianjin University
+    - name: Country
+      value: China
+     -name: Email:
+      value: pgjing@tju.edu.cn
+      
 
 - title: Experience
   type: time_table
