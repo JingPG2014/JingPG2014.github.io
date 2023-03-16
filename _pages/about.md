@@ -8,11 +8,6 @@ profile:
   align: center
   image: jing.png
   image_circular: true # crops the image to make it circular
-  address: >
-    <div>Address: Room D125, Building 26, No.92 Weijin Road, Tianjin University, Tianjin, China</div>
-    <div>Postcode: 300072</div>
-    <div>Email: pgjing@tju.edu.cn</div>
-
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 Social: true  # includes social icons at the bottom of the page
@@ -20,10 +15,13 @@ Social: true  # includes social icons at the bottom of the page
 
 Dr. Jing  is currently an associate professor with the School of Electrical and Information Engineering, Tianjin University. He received his Ph.D. degree in Information and Communication Engineering from Tianjin University. Dr. Jing was selected into the Elite Scholar Program of Tianjin University in 2020 and served as guest editor of journals Information Processing&Mangement and Multimedia Tools and Applications.  Dr. Jing has co-/authored more than 60  papers including IEEE TIP/TKDE/TMM/TCSVT/TCYB, ACM MM, etc.
 
+ address: >
+    <div>Address: Room D125, Building 26, No.92 Weijin Road, 300072, Tianjin University, Tianjin, China</div>
+    <div>Email: pgjing@tju.edu.cn</div>
 
 
 
-**Research interest:** Multimedia Analysis and Tensor Decomposition.*
+**Research interest:** Micro-video Understanding, Image/video Memorability Prediction, Tensor Decomposition.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
