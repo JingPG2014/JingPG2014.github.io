@@ -102,9 +102,6 @@
         - Alzheimer’s disease (AD) is a degenerative neurological disease that occurs in the elderly with typical symptoms of decline in cognition, manifested by eye movement behaviors. The key to AD treatment requires early detection of cognitive impairment, which relies on frequent medical screening. We focused on eye-tracker (ET) nodes and cloud-based diagnosis enabled by machine learning (ML), which can provide convenient screening of oculomotor abnormalities and automatic identification of early-stage AD. 
 
 - title: Teaching Courses
-  type: map
-  contents:
-    - name: Graduate: 
-      value: Multimedia Data Mining and Analysis.
-    - name: Graduate: 
-      value: Information Security Technology.
+  type: list
+    -   Multimedia Data Mining and Analysis.
+    -   Information Security Technology.
