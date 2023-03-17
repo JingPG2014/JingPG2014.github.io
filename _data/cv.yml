@@ -100,7 +100,7 @@
         - Visual memorability generally represents the degree to which an image or video is remembered by different observers after a period of time.  Researchers have shown that visual memorability is time independent and not influenced by individual subject judgment, making visual memorability a well-defined and objectively measurable concept. Visual memorability  has a wide practical applications, such as designing impressive advertisements, summarizing photos in albums, detecting memory capacity of Alzheimer’s and Parkinson’s patients.
     - title: Smart Healthcare
       items:
-        - The rapid growth of data volume and diverse data types bring new challenges to the development of the multimedia field. In order to better solve the context, temporal smoothness, and higher-order problems in temporal data, through in-depth research on the temporal patterns of data under the framework of tensor decomposition and deep learning, and through adaptive learning, the temporal correlation patterns of data are obtained.
+        - Alzheimer’s disease (AD) is a degenerative neurological disease that occurs in the elderly with typical symptoms of decline in cognition, manifested by eye movement behaviors. The key to AD treatment requires early detection of cognitive impairment, which relies on frequent medical screening. We focused on eye-tracker (ET) nodes and cloud-based diagnosis enabled by machine learning (ML), which can provide convenient screening of oculomotor abnormalities and automatic identification of early-stage AD. 
 
 - title: Teaching Experience
   type: list
