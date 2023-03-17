@@ -103,8 +103,8 @@
 
 - title: Teaching Courses
   type: map
-    contents:
-    - name: Graduate
+  contents:
+    - name: Graduate: 
       value: Multimedia Data Mining and Analysis.
-    - name: Graduate 
+    - name: Graduate: 
       value: Information Security Technology.
