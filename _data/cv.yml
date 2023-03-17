@@ -91,11 +91,13 @@
   contents:
     - title: Micro-video Understanding and Analysis
       items: 
-        - In the context of the rapid development of the micro-video industry, research focuses on the core problem of micro-video semantic analysis, gradually expanding the research from the prediction of the popularity of multimodal micro-videos, the detection of micro-video events, the classification of multimodal micro-videos, and the prediction of micro-video memorability.
+        - Currently, micro-videos have attracted increasing attention due to their unique properties 
+        and great commercial value. Micro-videos are generally described by multiple modalities from 
+        various perspectives, which provide rich information along with redundancy. We focus on solving 
+        multi-modal multi-label classification, hashing retrieval, memorability estimation, and popularity prediction. 
     - title: Image and Video Memorability Modelling
       items:
-        -Visual memorability generally represents the degree to which an image or video is remembered by different observers after a period of time.  Researchers have shown that visual
-memorability is time independent and not influenced by individual subject judgment, making visual memorability a well-defined and objectively measurable concept. Visual memorability  has a wide practical applications, such as designing impressive advertisements, summarizing photos in albums, detecting memory capacity of Alzheimer’s and Parkinson’s patients.
+        - Visual memorability generally represents the degree to which an image or video is remembered by different observers after a period of time.  Researchers have shown that visual memorability is time independent and not influenced by individual subject judgment, making visual memorability a well-defined and objectively measurable concept. Visual memorability  has a wide practical applications, such as designing impressive advertisements, summarizing photos in albums, detecting memory capacity of Alzheimer’s and Parkinson’s patients.
     - title: Smart Healthcare
       items:
         - The rapid growth of data volume and diverse data types bring new challenges to the development of the multimedia field. In order to better solve the context, temporal smoothness, and higher-order problems in temporal data, through in-depth research on the temporal patterns of data under the framework of tensor decomposition and deep learning, and through adaptive learning, the temporal correlation patterns of data are obtained.
