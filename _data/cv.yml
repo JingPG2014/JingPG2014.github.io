@@ -91,10 +91,7 @@
   contents:
     - title: Micro-video Understanding and Analysis
       items: 
-        - Currently, micro-videos have attracted increasing attention due to their unique properties 
-        and great commercial value. Micro-videos are generally described by multiple modalities from 
-        various perspectives, which provide rich information along with redundancy. We focus on solving 
-        multi-modal multi-label classification, hashing retrieval, memorability estimation, and popularity prediction. 
+        - Currently, micro-videos have attracted increasing attention due to their unique properties and great commercial value. Micro-videos are generally described by multiple modalities from various perspectives, which provide rich information along with redundancy. We focus on solving  multi-modal multi-label classification, hashing retrieval, memorability estimation, and popularity prediction. 
     - title: Image and Video Memorability Modelling
       items:
         - Visual memorability generally represents the degree to which an image or video is remembered by different observers after a period of time.  Researchers have shown that visual memorability is time independent and not influenced by individual subject judgment, making visual memorability a well-defined and objectively measurable concept. Visual memorability  has a wide practical applications, such as designing impressive advertisements, summarizing photos in albums, detecting memory capacity of Alzheimer’s and Parkinson’s patients.
@@ -103,7 +100,7 @@
         - Alzheimer’s disease (AD) is a degenerative neurological disease that occurs in the elderly with typical symptoms of decline in cognition, manifested by eye movement behaviors. The key to AD treatment requires early detection of cognitive impairment, which relies on frequent medical screening. We focused on eye-tracker (ET) nodes and cloud-based diagnosis enabled by machine learning (ML), which can provide convenient screening of oculomotor abnormalities and automatic identification of early-stage AD. 
 
 - title: Teaching Experience
-  type: list
+  type: nested_list
   contents:
     - Multimedia Data Mining and Analysis,
     - Information Security Technology,
