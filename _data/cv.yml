@@ -1,12 +1,14 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Full Name:
       value: Peiguang Jing
-    - name: Institution 
+    - name: Institution: 
       value: Tianjin University
-    - name: Email
+    - name: Email:
       value: pgjing@tju.edu.cn
+     - name: Position:
+      value: Associate Professor
       
 
 - title: Experience
