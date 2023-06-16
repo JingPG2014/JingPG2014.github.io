@@ -3,4 +3,4 @@ layout: post
 date: 2023-2-8 15:59:00-0400
 inline: true
 ---
-Congratulations!:sparkles: One paper about multimedia fashion compatibility has been accepted by IEEE TMM! :smile:
+Congratulations!:sparkles: One paper about multimodal fashion compatibility has been accepted by IEEE TMM! :smile:
