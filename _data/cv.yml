@@ -106,5 +106,5 @@
 - title: Teaching Courses
   type: list
   contents:
-    - Multimedia Data Mining and Analysis.
-    - Information Security Technology.
+    - title: Multimedia Data Mining and Analysis.
+    - title: Information Security Technology.
