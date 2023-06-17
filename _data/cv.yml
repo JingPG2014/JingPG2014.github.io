@@ -5,6 +5,8 @@
       value: Peiguang Jing
     - name: "Institution:" 
       value: Tianjin University
+    -name: "Department:"
+      value: School of Electrical and Information Engineering
     - name: "Email:"
       value: pgjing@tju.edu.cn
     - name: "Position:"
