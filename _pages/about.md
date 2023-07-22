@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 Social: true  # includes social icons at the bottom of the page
 ---
 
-Dr. Jing  is currently an associate professor with the School of Electrical and Information Engineering, Tianjin University. He received his Ph.D. degree in Information and Communication Engineering from Tianjin University at 2018. Dr. Jing was selected into the Elite Scholar Program of Tianjin University in 2020 and served as guest editor of journals Information Processing&Mangement and Multimedia Tools and Applications.  Dr. Jing has co-/authored more than 60  papers including IEEE TIP/TKDE/TMM/TCSVT/TCYB, ACM MM, etc. Two papers of Dr. Jing were selected as ESI highly cited papers and one paper was selected as ESI hot paper.
+Dr. Jing  is currently an associate professor with the School of Electrical and Information Engineering, Tianjin University. He received his Ph.D. degree in Information and Communication Engineering from Tianjin University at 2018. Dr. Jing was selected into the Elite Scholar Program of Tianjin University in 2020 and served as guest editor of journals Information Processing&Mangement and Multimedia Tools and Applications.  Dr. Jing has co-/authored more than 60  papers including IEEE TIP/TKDE/TMM/TCSVT/TCYB, ACM MM, etc. Two papers of Dr. Jing were selected as ESI highly cited papers and one paper was selected as ESI hot paper. In addition, Dr. Jing has served as reviewers for many top journals and conferences, such as IEEE TPAMI/TNNLS/TGRS/TKDE/TMM/TCSVT/TCYB/SPL, ACM TWEB/TOIS/TIS/TOMM/MM, and PR/PRL/IF/IPM. 
 
 Address: Room D125, Building 26, No.92 Weijin Road, 300072, Tianjin University, Tianjin, China
 Email: pgjing@tju.edu.cn
@@ -24,7 +24,7 @@ DBLP: https://dblp.org/pid/04/10628
 
 
 
-**Research interest:** Micro-video Understanding, Image/video Memorability Prediction, Tensor Decomposition.
+**Research interest:** Micro-video Understanding, Image/video Memorability Prediction, Tensor Decomposition, Healthcare.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
