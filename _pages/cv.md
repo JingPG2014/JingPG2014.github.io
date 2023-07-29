@@ -1,6 +1,6 @@
 ---
-layout: cv
-permalink: /君子以果行育德/
+layout: permalink
+permalink: /CV/
 title: CV
 nav: true
 nav_order: 4
