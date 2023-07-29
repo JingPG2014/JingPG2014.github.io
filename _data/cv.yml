@@ -107,12 +107,12 @@
   type: nested_list
   contents:
     - title: Multimedia Data Mining and Analysis.
-    items: 
-    -This course presents the challenges and opportunities in the current multimedia landscape, 
-    with a focus on feature extraction, representation, and decision analysis for multimedia data mining using 
-    machine learning and deep learning techniques. Additionally, it explores cutting-edge topics in multimedia applications.
+      items: 
+        -This course presents the challenges and opportunities in the current multimedia landscape, with a focus on 
+        feature extraction, representation, and decision analysis for multimedia data mining using machine learning 
+        and deep learning techniques. Additionally, it explores cutting-edge topics in multimedia applications.
     - title: Information Security Technology.
-    items: 
-    -This course presents the basic objectives of information security with a focus on representative encryption methods, 
-    Key distribution and management, message authentication, hash function, biosecurity, and blockchain techniques. Additionally, 
-    it emphasizes the practical implementation of various techniques in engineering.
+      items: 
+        -This course presents the basic objectives of information security with a focus on representative encryption methods, 
+        distribution and management, message authentication, hash function, biosecurity, and blockchain techniques. Additionally, 
+        it emphasizes the practical implementation of various techniques in engineering.
