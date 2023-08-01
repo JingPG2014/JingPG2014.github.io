@@ -19,7 +19,7 @@ Dr. Jing  is currently an associate professor with the School of Electrical and 
 
 Address: Room D125, Building 26, No.92 Weijin Road, 300072, Tianjin University, Tianjin, China
 
-Email: <ahref="pgjing@tju.edu.cn">pgjing@tju.edu.cn</a>
+Email: <ahref="mailto:pgjing@tju.edu.cn">pgjing@tju.edu.cn</a>
 
 Google Scholar: <a href = "https://scholar.google.com/citations?user=Kr-OYyQAAAAJ&hl=zh-CN">https://scholar.google.com/citations?user=Kr-OYyQAAAAJ&hl=zh-CN</a>
 
