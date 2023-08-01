@@ -21,7 +21,7 @@ Address: Room D125, Building 26, No.92 Weijin Road, 300072, Tianjin University, 
 
 Email: pgjing@tju.edu.cn
 
-Google Scholar: https://scholar.google.com/citations?user=Kr-OYyQAAAAJ&hl=zh-CN
+Google Scholar: <a href = "https://scholar.google.com/citations?user=Kr-OYyQAAAAJ&hl=zh-CN">https://scholar.google.com/citations?user=Kr-OYyQAAAAJ&hl=zh-CN</a>
 
 DBLP: https://dblp.org/pid/04/10628
 
