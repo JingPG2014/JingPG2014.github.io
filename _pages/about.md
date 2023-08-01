@@ -23,7 +23,7 @@ Email: pgjing@tju.edu.cn
 
 Google Scholar: <a href = "https://scholar.google.com/citations?user=Kr-OYyQAAAAJ&hl=zh-CN">https://scholar.google.com/citations?user=Kr-OYyQAAAAJ&hl=zh-CN</a>
 
-DBLP: https://dblp.org/pid/04/10628
+DBLP: <a href = "https://dblp.org/pid/04/10628"> https://dblp.org/pid/04/10628 </a>
 
 
 
